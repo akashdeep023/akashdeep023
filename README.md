@@ -6,7 +6,7 @@
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 ####    📫 How to reach me:
 
-  - Email: ad3500476@gmail.com  
-  - LinkedIn: https://www.linkedin.com/in/mr-akashdeep-/  
+  - 📧 Email: ad3500476@gmail.com  
+  - 🔗 LinkedIn: https://www.linkedin.com/in/mr-akashdeep-/  
   - Instagram: https://www.instagram.com/mr_akashdeep_/  
   - GitHub: https://github.com/akashdeep023
