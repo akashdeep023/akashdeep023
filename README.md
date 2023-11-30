@@ -9,7 +9,8 @@
 ### 👀 I’m interested in codding.
 ### 🌱 I’m currently learning Web development & Java language.
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
-####    📫 How to reach me:
+
+###   📫 How to reach me:
 
   - 📧 Email:    ad3500476@gmail.com  
   - 🔗 LinkedIn: https://www.linkedin.com/in/mr-akashdeep-/  
@@ -20,7 +21,7 @@
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-<div style="width: 100%">
+<div style="width: 100%; display: flex; align-items: center;flex-wrap: nowrap;">
 <a href="https://github.com/akashdeep023">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
