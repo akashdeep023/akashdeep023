@@ -21,11 +21,11 @@
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-<div style="width: 100%; display: flex; align-items: center;flex-wrap: nowrap;">
-<a href="https://github.com/akashdeep023">
+<div style="align-items: center; width: 100%; ">
+<a style="width: 100%;" href="https://github.com/akashdeep023">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<a href="https://github.com/akashdeep023">
+<a style="width: 100%;" href="https://github.com/akashdeep023">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut"/>
 </a>
 </div>
@@ -53,7 +53,14 @@
 
 ##  Let's connect :speech_balloon:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Neel_3056) --> 
-[![Linkedin Badge](https://img.shields.io/badge/-AkashDeep-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-akashdeep-/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Akashdeep-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-akashdeep-/) 
 [![Gmail Badge](https://img.shields.io/badge/-ad3500476@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ad3500476@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@mr_akashdeep_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/mr_akashdeep_/)
+[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="22" title="Follow me" />](https://github.com/akashdeep023) 
+
+
+<img src="https://imgur.com/rilHVxA.png"/>
+
+
+
 
