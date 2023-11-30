@@ -22,7 +22,7 @@
 
 
 <div>
-<a hrefgithub.com/akashdeep023">
+<a href="https://github.com/akashdeep023">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 <a href="https://github.com/akashdeep023">
