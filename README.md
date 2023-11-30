@@ -20,12 +20,12 @@
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-<div>
+<div style="width: 100%">
 <a href="https://github.com/akashdeep023">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 <a href="https://github.com/akashdeep023">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical&card_width=350"/>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut"/>
 </a>
 </div>
 
