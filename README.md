@@ -74,6 +74,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@mr_akashdeep_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/mr_akashdeep_/)
 [<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="22" title="Follow me" />](https://github.com/akashdeep023) 
 
+---
+
 <a href="https://github.com/akashdeep023">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
