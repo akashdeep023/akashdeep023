@@ -7,17 +7,19 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;"> 
 
 ### 👀 I’m interested in coding.
+
 ### 🌱 I’m currently learning Web development & Java language.
+
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-###   📫 How to reach me:
+---
 
-  - 📧 Email:    ad3500476@gmail.com  
-  - 🔗 LinkedIn: https://www.linkedin.com/in/mr-akashdeep-/  
-  - Instagram:   https://www.instagram.com/mr_akashdeep_/  
-  - GitHub:      https://github.com/akashdeep023
-
-
+##  Let's connect :speech_balloon:
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) --> 
+[<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
+[<img src="https://img.shields.io/badge/-ad3500476@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:ad3500476@gmail.com) 
+[<img src="https://img.shields.io/badge/-@mr__akashdeep__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mr_akashdeep_/)
+[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023) 
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
@@ -44,7 +46,7 @@
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    
-<!-- <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>    -->
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/tailwind-%2300ADD8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-grey.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
@@ -67,12 +69,6 @@
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
 
-##  Let's connect :speech_balloon:
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) --> 
-[![Linkedin Badge](https://img.shields.io/badge/-Akashdeep-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-akashdeep-/) 
-[![Gmail Badge](https://img.shields.io/badge/-ad3500476@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ad3500476@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@mr_akashdeep_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/mr_akashdeep_/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="22" title="Follow me" />](https://github.com/akashdeep023) 
 
 ---
 
