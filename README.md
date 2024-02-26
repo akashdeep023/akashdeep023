@@ -115,20 +115,20 @@ Live link 	->  <br>
 Github link	-> 
 
 ToDo Game Redux <br>
-Live link 	->  <br>
-Github link 	-> 
+Live link 	->  https://todo-list-jack.netlify.app/ <br>
+Github link 	-> https://github.com/akashdeep023/ToDo-List-Redux
 
 ToDo Game React <br>
 Live link 	-> https://task-list-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/ToDo-List-React (Public Complete) 	(push code)
+Github link 	-> https://github.com/akashdeep023/ToDo-List-React (Public Complete)
 
 ToDo Game Js <br>
 Live link 	-> https://akashdeep023.github.io/ToDo_Game/ <br>
-Github link 	-> https://github.com/akashdeep023/ToDo_Game_Js (Public Complete) 	(Add some Css)
+Github link 	-> https://github.com/akashdeep023/ToDo_Game_Js (Public Complete)
 
 Lottery Game <br>
 Live link 	-> https://lottery-game-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/Lottery-Game (Public Complete) 	(push code)
+Github link 	-> https://github.com/akashdeep023/Lottery-Game (Public Complete)
 
 Small Project
 -------------
