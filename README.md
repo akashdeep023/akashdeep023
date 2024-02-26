@@ -74,6 +74,77 @@
 
 
 ---
+Major Project
+-------------
+
+Airbnb Project <br>
+Live link 	-> https://airbnb-major-project-jack.onrender.com <br>
+Github link 	-> https://github.com/akashdeep023/Airbnb_Project (Private Complete) <br>
+Github link	-> https://github.com/akashdeep023/MAJOR_PROJECT (Public UnComplete)
+
+Food Plaza <br>
+Live link	-> https://food-plaza-jack.netlify.app/ <br>
+Github link	-> 
+
+Netflix Gpt <br>
+Live link 	-> https://netflix-gpt-jack.firebaseapp.com/ || https://netflix-gpt-jack.netlify.app/ <br>
+Github link	-> 
+
+Mini Major Project
+------------------
+
+Weather Widget <br>
+Live link 	-> https://weather-widget-jack.netlify.app/ <br>
+Github link 	-> https://github.com/akashdeep023/Weather_Widget (Public Complete)
+
+SimonSay Game Js <br>
+Live link 	-> https://akashdeep023.github.io/SimonSay_Game/ <br>
+Github link 	-> https://github.com/akashdeep023/SimonSay_Game (Public Complete)
+
+Amazon Clone <br>
+Live link 	-> https://akashdeep023.github.io/Amazon-Clone/ <br>
+Github link 	-> https://github.com/akashdeep023/Amazon-Clone (Publick Complete)
+
+Spotify Clone <br>
+Live link 	-> https://akashdeep023.github.io/Spotify-Clone/ <br>
+Github link 	-> https://github.com/akashdeep023/Spotify-Clone (Public Complete) 	(Not Responsive)
+
+WhatApp Chat <br>
+Live link 	->  <br>
+Github link	-> 
+
+ToDo Game Redux <br>
+Live link 	->  <br>
+Github link 	-> 
+
+ToDo Game React <br>
+Live link 	-> https://task-list-jack.netlify.app/ <br>
+Github link 	-> https://github.com/akashdeep023/ToDo-List-React (Public Complete) 	(push code)
+
+ToDo Game Js <br>
+Live link 	-> https://akashdeep023.github.io/ToDo_Game/ <br>
+Github link 	-> https://github.com/akashdeep023/ToDo_Game_Js (Public Complete) 	(Add some Css)
+
+Lottery Game <br>
+Live link 	-> https://lottery-game-jack.netlify.app/ <br>
+Github link 	-> https://github.com/akashdeep023/Lottery-Game (Public Complete) 	(push code)
+
+Small Project
+-------------
+
+Css Mini Project <br>
+Live link 	-> https://akashdeep023.github.io/CSS-Mini-Project/ <br>
+Github link 	-> https://github.com/akashdeep023/CSS-Mini-Project (Public Complete)
+
+Insta Story Js <br>
+Live link 	-> https://akashdeep023.github.io/Insta_Story_Js/  <br>
+Github link 	-> https://github.com/akashdeep023/Insta_Story_Js (Public Complete)
+
+Card Project Js <br>
+Live link 	-> https://akashdeep023.github.io/Card_Project_Js/ <br>
+Github link 	-> https://github.com/akashdeep023/Card_Project_Js (Public Complete)
+
+---
 
 <a href="https://github.com/akashdeep023">
   <img src="https://imgur.com/rilHVxA.png"/>
