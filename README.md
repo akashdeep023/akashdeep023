@@ -85,7 +85,7 @@ Github link	-> https://github.com/akashdeep023/MAJOR_PROJECT (Public UnComplete)
 
 Food Plaza <br>
 Live link	-> https://food-plaza-jack.netlify.app/ <br>
-Github link	-> 
+Github link	-> https://github.com/akashdeep023/Food_Plaza (Public Complete)
 
 Netflix Gpt <br>
 Live link 	-> https://netflix-gpt-jack.firebaseapp.com/ || https://netflix-gpt-jack.netlify.app/ <br>
