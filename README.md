@@ -89,7 +89,7 @@ Github link	-> https://github.com/akashdeep023/Food_Plaza (Public Complete)
 
 Netflix Gpt <br>
 Live link 	-> https://netflix-gpt-jack.firebaseapp.com/ || https://netflix-gpt-jack.netlify.app/ <br>
-Github link	-> 
+Github link	-> https://github.com/akashdeep023/Netflix_Gpt (Private Uncomplete)
 
 Mini Major Project
 ------------------
