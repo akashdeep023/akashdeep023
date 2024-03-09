@@ -84,7 +84,7 @@ Github link 	-> https://github.com/akashdeep023/Airbnb_Project (Private Complete
 Github link	-> https://github.com/akashdeep023/MAJOR_PROJECT (Public UnComplete)
 
 Food Plaza <br>
-Live link	-> https://food-plaza-jack.netlify.app/ <br>
+Live link	-> https://food-plaza-jack.onrender.com/ || https://food-plaza-jack.netlify.app/ <br>
 Github link	-> https://github.com/akashdeep023/Food_Plaza (Public Complete)
 
 Netflix Gpt <br>
