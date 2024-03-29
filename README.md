@@ -98,7 +98,7 @@
 
 **Weather Widget**
 
--   [Live link](https://weather-widget-jack.netlify.app/)
+-   [Live link](https://weather-widget-react-jack.netlify.app/)
 -   [Github link](https://github.com/akashdeep023/Weather_Widget) (Public Complete)
 
 **SimonSay Game Js**
@@ -123,12 +123,12 @@
 
 **ToDo Game Redux**
 
--   [Live link](https://todo-list-jack.netlify.app/)
+-   [Live link](https://todo-list-redux-jack.netlify.app/)
 -   [Github link](https://github.com/akashdeep023/ToDo-List-Redux) (Publick Complete)
 
 **ToDo Game React**
 
--   [Live link](https://task-list-jack.netlify.app/)
+-   [Live link](https://task-list-react-jack.netlify.app/)
 -   [Github link](https://github.com/akashdeep023/ToDo-List-React) (Public Complete)
 
 **ToDo Game Js**
@@ -138,7 +138,7 @@
 
 **Lottery Game**
 
--   [Live link](https://lottery-game-jack.netlify.app/)
+-   [Live link](https://lottery-game-react-jack.netlify.app/)
 -   [Github link](https://github.com/akashdeep023/Lottery-Game) (Public Complete)
 
 ## Small Project
