@@ -40,7 +40,7 @@
 </a>
 </div>
 
-## Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 <span>
   <a href="https://github.com/akashdeep023">
@@ -80,30 +80,30 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
 
-## All Projects
+## 🧑‍🏫 All Projects
 
-| Major Project  |                                                Live Link                                                 |                          GitHub Link                          |
-| :------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+| Major Project  |                                                Live Link                                                 | GitHub Link                                                   |
+| :------------- | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------ |
 | Airbnb Project |                       [Live link](https://airbnb-major-project-jack.onrender.com)                        | [Github link](https://github.com/akashdeep023/Airbnb_Project) |
-|   Food Plaza   |  [Live link](https://food-plaza-jack.onrender.com/) / [Live link](https://food-plaza-jack.netlify.app/)  |   [Github link](https://github.com/akashdeep023/Food_Plaza)   |
-|  Netflix Gpt   | [Live link](https://netflix-gpt-jack.onrender.com/) / [Live link](https://netflix-gpt-jack.netlify.app/) |  [Github link](https://github.com/akashdeep023/Netflix_Gpt)   |
+| Food Plaza     |  [Live link](https://food-plaza-jack.onrender.com/) / [Live link](https://food-plaza-jack.netlify.app/)  | [Github link](https://github.com/akashdeep023/Food_Plaza)     |
+| Netflix Gpt    | [Live link](https://netflix-gpt-jack.onrender.com/) / [Live link](https://netflix-gpt-jack.netlify.app/) | [Github link](https://github.com/akashdeep023/Netflix_Gpt)    |
 
-| Mini Major Project |                          Live Link                          |                                  GitHub Link                                  |
-| :----------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|   Weather Widget   | [Live link](https://weather-widget-react-jack.netlify.app/) |         [Github link](https://github.com/akashdeep023/Weather_Widget)         |
-|  SimonSay Game Js  | [Live link](https://akashdeep023.github.io/SimonSay_Game/)  |         [Github link](https://github.com/akashdeep023/SimonSay_Game)          |
-|    Amazon Clone    |  [Live link](https://akashdeep023.github.io/Amazon-Clone/)  |          [Github link](https://github.com/akashdeep023/Amazon-Clone)          |
-|   Spotify Clone    | [Live link](https://akashdeep023.github.io/Spotify-Clone/)  | [Github link](https://github.com/akashdeep023/Spotify-Clone) <sup>N-Res</sup> |
-|    WhatApp Chat    |        [Live link](https://github.com/akashdeep023/)        |                        [Github link]() <sup>Wait</sup>                        |
-|  ToDo Game Redux   |   [Live link](https://todo-list-redux-jack.netlify.app/)    |        [Github link](https://github.com/akashdeep023/ToDo-List-Redux)         |
-|  ToDo Game React   |   [Live link](https://task-list-react-jack.netlify.app/)    |        [Github link](https://github.com/akashdeep023/ToDo-List-React)         |
-|    ToDo Game Js    |   [Live link](https://akashdeep023.github.io/ToDo_Game/)    |          [Github link](https://github.com/akashdeep023/ToDo_Game_Js)          |
-|    Lottery Game    |  [Live link](https://lottery-game-react-jack.netlify.app/)  |          [Github link](https://github.com/akashdeep023/Lottery-Game)          |
+| Mini Major Project |                          Live Link                          | GitHub Link                                                                   |
+| :----------------- | :---------------------------------------------------------: | :---------------------------------------------------------------------------- |
+| Weather Widget     | [Live link](https://weather-widget-react-jack.netlify.app/) | [Github link](https://github.com/akashdeep023/Weather_Widget)                 |
+| SimonSay Game Js   | [Live link](https://akashdeep023.github.io/SimonSay_Game/)  | [Github link](https://github.com/akashdeep023/SimonSay_Game)                  |
+| Amazon Clone       |  [Live link](https://akashdeep023.github.io/Amazon-Clone/)  | [Github link](https://github.com/akashdeep023/Amazon-Clone)                   |
+| Spotify Clone      | [Live link](https://akashdeep023.github.io/Spotify-Clone/)  | [Github link](https://github.com/akashdeep023/Spotify-Clone) <sup>N-Res</sup> |
+| WhatApp Chat       |        [Live link](https://github.com/akashdeep023/)        | [Github link]() <sup>Wait</sup>                                               |
+| ToDo Game Redux    |   [Live link](https://todo-list-redux-jack.netlify.app/)    | [Github link](https://github.com/akashdeep023/ToDo-List-Redux)                |
+| ToDo Game React    |   [Live link](https://task-list-react-jack.netlify.app/)    | [Github link](https://github.com/akashdeep023/ToDo-List-React)                |
+| ToDo Game Js       |   [Live link](https://akashdeep023.github.io/ToDo_Game/)    | [Github link](https://github.com/akashdeep023/ToDo_Game_Js)                   |
+| Lottery Game       |  [Live link](https://lottery-game-react-jack.netlify.app/)  | [Github link](https://github.com/akashdeep023/Lottery-Game)                   |
 
-|  Small Project   |                           Live Link                           |                           GitHub Link                           |
-| :--------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------: |
+| Small Project    |                           Live Link                           | GitHub Link                                                     |
+| :--------------- | :-----------------------------------------------------------: | :-------------------------------------------------------------- |
 | Css Mini Project | [Live link](https://akashdeep023.github.io/CSS-Mini-Project/) | [Github link](https://github.com/akashdeep023/CSS-Mini-Project) |
-|  Insta Story Js  |  [Live link](https://akashdeep023.github.io/Insta_Story_Js/)  |  [Github link](https://github.com/akashdeep023/Insta_Story_Js)  |
+| Insta Story Js   |  [Live link](https://akashdeep023.github.io/Insta_Story_Js/)  | [Github link](https://github.com/akashdeep023/Insta_Story_Js)   |
 | Card Project Js  | [Live link](https://akashdeep023.github.io/Card_Project_Js/)  | [Github link](https://github.com/akashdeep023/Card_Project_Js)  |
 
 ---
