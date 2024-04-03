@@ -85,8 +85,9 @@
 | Major Project  |                                                Live Link                                                 | GitHub Link                                                   |
 | :------------- | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------ |
 | Airbnb Project |                       [Live link](https://airbnb-major-project-jack.onrender.com)                        | [Github link](https://github.com/akashdeep023/Airbnb_Project) |
-| Food Plaza     |  [Live link](https://food-plaza-jack.onrender.com/) / [Live link](https://food-plaza-jack.netlify.app/)  | [Github link](https://github.com/akashdeep023/Food_Plaza)     |
-| Netflix Gpt    | [Live link](https://netflix-gpt-jack.onrender.com/) / [Live link](https://netflix-gpt-jack.netlify.app/) | [Github link](https://github.com/akashdeep023/Netflix_Gpt)    |
+| Food Plaza     |  [Live link](https://food-plaza-jack.onrender.com/)  | [Github link](https://github.com/akashdeep023/Food_Plaza)     |
+| Netflix Gpt    | [Live link](https://netflix-gpt-jack.onrender.com/)  | [Github link](https://github.com/akashdeep023/Netflix_Gpt)    |
+| Netflix Gpt    | [Live link](https://cors-handlers.vercel.app/) / [Live link](https://cors-handler.onrender.com/) | [Github link](https://github.com/akashdeep023)    |
 
 | Mini Major Project |                          Live Link                          | GitHub Link                                                                   |
 | :----------------- | :---------------------------------------------------------: | :---------------------------------------------------------------------------- |
