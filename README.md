@@ -84,10 +84,10 @@
 
 | Major Project  |                                                Live Link                                                 | GitHub Link                                                   |
 | :------------- | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------ |
-| Airbnb Project |                       [Live link](https://airbnb-major-project-jack.onrender.com)                        | [Github link](https://github.com/akashdeep023/Airbnb_Project) |
-| Food Plaza     |  [Live link](https://food-plaza-jack.onrender.com/)  | [Github link](https://github.com/akashdeep023/Food_Plaza)     |
-| Netflix Gpt    | [Live link](https://netflix-gpt-jack.onrender.com/)  | [Github link](https://github.com/akashdeep023/Netflix_Gpt)    |
-| Cors Handler    | [Live link](https://cors-handlers.vercel.app/) / [Live link](https://cors-handler.onrender.com/) | [Github link](https://github.com/akashdeep023)    |
+| Airbnb Project |                       [Live link](https://airbnb-project-major-jack.onrender.com/)                        | [Github link](https://github.com/akashdeep023/Airbnb_Project) |
+| Food Plaza     |  [Live link](https://food-plaza-project.onrender.com/)  | [Github link](https://github.com/akashdeep023/Food_Plaza)     |
+| Netflix Gpt    | [Live link](https://netflix-gpt-project.onrender.com/)  | [Github link](https://github.com/akashdeep023/Netflix_Gpt)    |
+| Cors Handler    | [Live link](https://cors-handlers.vercel.app/) | [Github link](https://github.com/akashdeep023)    |
 
 | Mini Major Project |                          Live Link                          | GitHub Link                                                                   |
 | :----------------- | :---------------------------------------------------------: | :---------------------------------------------------------------------------- |
