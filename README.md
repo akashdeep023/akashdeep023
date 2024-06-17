@@ -44,14 +44,11 @@
 
 <span>
   <a href="https://github.com/akashdeep023">
-<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
-<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    -->
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    -->
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -66,9 +63,6 @@
 <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
-<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    -->
-<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   -->
-<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>    -->
 </a>
 </span>
 <br>
@@ -82,10 +76,11 @@
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  01  | Airbnb Project | [Link](https://airbnb-project-major-jack.onrender.com/) | [Repository](https://github.com/akashdeep023/Airbnb_Project) | [Post](https://www.linkedin.com/posts/akashdeep023_airbnb-apnacollege-fullstackdevelopment-activity-7153710900992970752-Z9_G?utm_source=share&utm_medium=member_desktop) |
-|  02  | Food Plaza     |    [Link](https://food-plaza-project.onrender.com/)     |   [Repository](https://github.com/akashdeep023/Food_Plaza)   |    [Post](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
-|  03  | Netflix Gpt    |    [Link](https://netflix-gpt-project.onrender.com/)    |  [Repository](https://github.com/akashdeep023/Netflix_Gpt)   |          [Post](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
-|  04  | Cors Handler   |        [Link](https://cors-handlers.vercel.app/)        |  [Repository](https://github.com/akashdeep023/Cors_Handler) <sup>P</sup>  |     [Post](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
-|  05  | Code With      |        [Link](https://code-with.vercel.app/)            |   [Repository](https://github.com/akashdeep023/Code_With) <sup>P</sup>  |     [Post]() <sup>Wait</sup>     |
+|  02  | Chat App       | [Link](https://chat-application-jack.vercel.app/)       | [Repository](https://github.com/akashdeep023/Chat_App)       | [Post]() <sup>Wait</sup>  |
+|  03  | Food Plaza     |    [Link](https://food-plaza-project.onrender.com/)     |   [Repository](https://github.com/akashdeep023/Food_Plaza)   |    [Post](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
+|  04  | Netflix Gpt    |    [Link](https://netflix-gpt-project.onrender.com/)    |  [Repository](https://github.com/akashdeep023/Netflix_Gpt)   |          [Post](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
+|  05  | Cors Handler   |        [Link](https://cors-handlers.vercel.app/)        |  [Repository](https://github.com/akashdeep023/Cors_Handler) <sup>P</sup>  |     [Post](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
+|  06  | Code With      |        [Link](https://code-with.vercel.app/)            |   [Repository](https://github.com/akashdeep023/Code_With) <sup>P</sup>  |     [Post]() <sup>Wait</sup>     |
 
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
