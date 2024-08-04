@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @akashdeep023 (Akash Deep)
+# 👋 Hi, I’m Akash Deep (@akashdeep023)
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
@@ -11,11 +11,9 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
-### 👀 I’m interested in coding.
+### 👀 Professional Summary
+Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
 
-### 🌱 I’m currently learning Web development & Java language.
-
-### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
 ---
 
