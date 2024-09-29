@@ -73,33 +73,35 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Chat App       | [Link](https://chat-application-jack.vercel.app/)       | [Repository](https://github.com/akashdeep023/Chat_App)       |     [Post](https://www.linkedin.com/posts/akashdeep023_chatapp-mernabrstack-mernstack-activity-7222507586980388864-XiV0?utm_source=share&utm_medium=member_desktop)      |
-|  02  | Airbnb Project | [Link](https://airbnb-project-major-jack.onrender.com/) | [Repository](https://github.com/akashdeep023/Airbnb_Project) | [Post](https://www.linkedin.com/posts/akashdeep023_airbnb-apnacollege-fullstackdevelopment-activity-7153710900992970752-Z9_G?utm_source=share&utm_medium=member_desktop) |
-|  03  | Food Plaza     |    [Link](https://food-plaza-project.onrender.com/)     |   [Repository](https://github.com/akashdeep023/Food_Plaza)   |    [Post](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
-|  04  | Netflix Gpt    |      [Link](https://netflix-gpt-jack.vercel.app/)       |  [Repository](https://github.com/akashdeep023/Netflix_Gpt)   |          [Post](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
-|  05  | Cors Handler   |        [Link](https://cors-handlers.vercel.app/)        |  [Repository](https://github.com/akashdeep023/Cors_Handler) <sup>P</sup>  |     [Post](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
-|  06  | Code With      |        [Link](https://code-with.vercel.app/)            |   [Repository](https://github.com/akashdeep023/Code_With) <sup>P</sup>  |     [Post]() <sup>Wait</sup>     |
+|  `01`  | `Chat App`       | [Link](https://chat-application-jack.vercel.app/)       | [Repository](https://github.com/akashdeep023/Chat_App)       |     [Post](https://www.linkedin.com/posts/akashdeep023_chatapp-mernabrstack-mernstack-activity-7222507586980388864-XiV0?utm_source=share&utm_medium=member_desktop)      |
+|  `02`  | `Airbnb Project` | [Link](https://airbnb-project-major-jack.onrender.com/) | [Repository](https://github.com/akashdeep023/Airbnb_Project) | [Post](https://www.linkedin.com/posts/akashdeep023_airbnb-apnacollege-fullstackdevelopment-activity-7153710900992970752-Z9_G?utm_source=share&utm_medium=member_desktop) |
+|  `03`  | `Food Plaza`     |    [Link](https://food-plaza-project.vercel.app/)       |   [Repository](https://github.com/akashdeep023/Food_Plaza)   |    [Post](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
+|  `04`  | `Netflix Gpt`    |      [Link](https://netflix-gpt-jack.vercel.app/)       |  [Repository](https://github.com/akashdeep023/Netflix_Gpt)   |          [Post](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
+|  `05`  | `Cors Handler`   |        [Link](https://cors-handlers.vercel.app/)        |  [Repository](https://github.com/akashdeep023/Cors_Handler) <sup>P</sup>  |     [Post](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
+|  `06`  | `Code With`      |        [Link](https://code-with.vercel.app/)            |   [Repository](https://github.com/akashdeep023/Code_With) <sup>P</sup>    |     `No Post`    |
+|  `07`  | `Drioh Project`  |        [Link](https://drioh.vercel.app/)                |   [Repository](https://github.com/akashdeep023/Drioh_Project)   |     `No Post`     |
+|  `08`  | `Quable Food`    |        [Link](https://quablefoods.vercel.app/)          |   [Repository](https://github.com/akashdeep023/Quable_Project)  |     `No Post`    |
 
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Life Track         |     [Link](https://todo-mern-project.vercel.app/)      |           [Repository](https://github.com/akashdeep023/Todo_Mern)            |
-|  02  | Weather Widget     | [Link](https://weather-widget-react-jack.netlify.app/) |         [Repository](https://github.com/akashdeep023/Weather_Widget)         |
-|  03  | SimonSay Game Js   | [Link](https://akashdeep023.github.io/SimonSay_Game/)  |         [Repository](https://github.com/akashdeep023/SimonSay_Game)          |
-|  04  | Amazon Clone       |  [Link](https://akashdeep023.github.io/Amazon-Clone/)  |          [Repository](https://github.com/akashdeep023/Amazon-Clone)          |
-|  05  | Spotify Clone      | [Link](https://akashdeep023.github.io/Spotify-Clone/)  | [Repository](https://github.com/akashdeep023/Spotify-Clone) <sup>N-Res</sup> |
-|  06  | WhatApp Chat       |        [Link](https://github.com/akashdeep023/)        |                        [Repository]() <sup>Wait</sup>                        |
-|  07  | ToDo Game Redux    |   [Link](https://todo-list-redux-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-Redux)         |
-|  08  | ToDo Game React    |   [Link](https://task-list-react-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-React)         |
-|  09  | ToDo Game Js       |   [Link](https://akashdeep023.github.io/ToDo_Game/)    |          [Repository](https://github.com/akashdeep023/ToDo_Game_Js)          |
-|  10  | Lottery Game       |  [Link](https://lottery-game-react-jack.netlify.app/)  |          [Repository](https://github.com/akashdeep023/Lottery-Game)          |
+|  `01`  | `Life Track`         |     [Link](https://todo-mern-project.vercel.app/)      |           [Repository](https://github.com/akashdeep023/Todo_Mern)            |
+|  `02`  | `Weather Widget`     | [Link](https://weather-widget-react-jack.netlify.app/) |         [Repository](https://github.com/akashdeep023/Weather_Widget)         |
+|  `03`  | `SimonSay Game Js`   | [Link](https://akashdeep023.github.io/SimonSay_Game/)  |         [Repository](https://github.com/akashdeep023/SimonSay_Game)          |
+|  `04`  | `Amazon Clone`       |  [Link](https://akashdeep023.github.io/Amazon-Clone/)  |          [Repository](https://github.com/akashdeep023/Amazon-Clone)          |
+|  `05`  | `Spotify Clone`      | [Link](https://akashdeep023.github.io/Spotify-Clone/)  | [Repository](https://github.com/akashdeep023/Spotify-Clone) <sup>N-Res</sup> |
+|  `06`  | `WhatApp Chat`       |        [Link](https://github.com/akashdeep023/)        |                        [Repository]() <sup>Wait</sup>                        |
+|  `07`  | `ToDo Game Redux`    |   [Link](https://todo-list-redux-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-Redux)         |
+|  `08`  | `ToDo Game React`    |   [Link](https://task-list-react-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-React)         |
+|  `09`  | `ToDo Game Js`       |   [Link](https://akashdeep023.github.io/ToDo_Game/)    |          [Repository](https://github.com/akashdeep023/ToDo_Game_Js)          |
+|  `10`  | `Lottery Game`       |  [Link](https://lottery-game-react-jack.netlify.app/)  |          [Repository](https://github.com/akashdeep023/Lottery-Game)          |
 
 | S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | MT Project       |       [Link](https://mt-project-jack.netlify.app/)       |    [Repository](https://github.com/akashdeep023/MT_Project)    |
-|  02  | Css Mini Project | [Link](https://akashdeep023.github.io/CSS-Mini-Project/) | [Repository](https://github.com/akashdeep023/CSS-Mini-Project) |
-|  03  | Insta Story Js   |  [Link](https://akashdeep023.github.io/Insta_Story_Js/)  |  [Repository](https://github.com/akashdeep023/Insta_Story_Js)  |
-|  04  | Card Project Js  | [Link](https://akashdeep023.github.io/Card_Project_Js/)  | [Repository](https://github.com/akashdeep023/Card_Project_Js)  |
+|  `01`  | `MT Project`       |       [Link](https://mt-project-jack.netlify.app/)       |    [Repository](https://github.com/akashdeep023/MT_Project)    |
+|  `02`  | `Css Mini Project` | [Link](https://akashdeep023.github.io/CSS-Mini-Project/) | [Repository](https://github.com/akashdeep023/CSS-Mini-Project) |
+|  `03`  | `Insta Story Js`   |  [Link](https://akashdeep023.github.io/Insta_Story_Js/)  |  [Repository](https://github.com/akashdeep023/Insta_Story_Js)  |
+|  `04`  | `Card Project Js`  | [Link](https://akashdeep023.github.io/Card_Project_Js/)  | [Repository](https://github.com/akashdeep023/Card_Project_Js)  |
 
 ---
 
