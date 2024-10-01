@@ -79,8 +79,8 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 |  `04`  | `Netflix Gpt`    |      [`Link`](https://netflix-gpt-jack.vercel.app/)       |  [`Repository`](https://github.com/akashdeep023/Netflix_Gpt)   |          [`Post`](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
 |  `05`  | `Cors Handler`   |        [`Link`](https://cors-handlers.vercel.app/)        |  [`Repository`](https://github.com/akashdeep023/Cors_Handler) <sup>`P`</sup>  |     [`Post`](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
 |  `06`  | `Code With`      |        [`Link`](https://code-with.vercel.app/)            |   [`Repository`](https://github.com/akashdeep023/Code_With) <sup>`P`</sup>    |     `No Post`    |
-|  `07`  | `Drioh Project`  |        [`Link`](https://drioh.vercel.app/)                |   [`Repository`](https://github.com/akashdeep023/Drioh_Project)   |     `No Post`     |
-|  `08`  | `Quable Food`    |        [`Link`](https://quablefoods.vercel.app/)          |   [`Repository`](https://github.com/akashdeep023/Quable_Project)  |     `No Post`    |
+|  `07`  | `Drioh Project`  |        [`Link`](https://drioh.vercel.app/)                |   [`Repository`](https://github.com/akashdeep023/Drioh_Project) <sup>`P`</sup>  |     `No Post`     |
+|  `08`  | `Quable Food`    |        [`Link`](https://quablefoods.vercel.app/)          |   [`Repository`](https://github.com/akashdeep023/Quable_Project) <sup>`P`</sup>  |     `No Post`    |
 
 
 | `S.No` | `Mini Major Project` |                       `Live Link`                        |                                 `GitHub Link`                                  |
@@ -89,8 +89,8 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 |  `02`  | `Weather Widget`     | [`Link`](https://weather-widget-react-jack.netlify.app/) |         [`Repository`](https://github.com/akashdeep023/Weather_Widget)         |
 |  `03`  | `SimonSay Game Js`   | [`Link`](https://akashdeep023.github.io/SimonSay_Game/)  |         [`Repository`](https://github.com/akashdeep023/SimonSay_Game)          |
 |  `04`  | `Amazon Clone`       |  [`Link`](https://akashdeep023.github.io/Amazon-Clone/)  |          [`Repository`](https://github.com/akashdeep023/Amazon-Clone)          |
-|  `05`  | `Spotify Clone`      | [`Link`](https://akashdeep023.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/akashdeep023/Spotify-Clone) <sup>`N-Res`</sup> |
-|  `06`  | `WhatApp Chat`       |        [`Link`](https://github.com/akashdeep023/)        |                        [`Repository`]() <sup>`Wait`</sup>                        |
+|  `05`  | `Spotify Clone`      | [`Link`](https://akashdeep023.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/akashdeep023/Spotify-Clone).                 |
+|  `06`  | `WhatApp Chat`       |        [`Link`](https://github.com/akashdeep023/)        |                        [`Repository`]() <sup>`Wait`</sup>                      |
 |  `07`  | `ToDo Game Redux`    |   [`Link`](https://todo-list-redux-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-Redux)         |
 |  `08`  | `ToDo Game React`    |   [`Link`](https://task-list-react-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-React)         |
 |  `09`  | `ToDo Game Js`       |   [`Link`](https://akashdeep023.github.io/ToDo_Game/)    |          [`Repository`](https://github.com/akashdeep023/ToDo_Game_Js)          |
