@@ -85,16 +85,17 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 
 | `S.No` | `Mini Major Project` |                       `Live Link`                        |                                 `GitHub Link`                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  `01`  | `Life Track`         |     [`Link`](https://todo-mern-project.vercel.app/)      |           [`Repository`](https://github.com/akashdeep023/Todo_Mern)            |
-|  `02`  | `Weather Widget`     | [`Link`](https://weather-widget-react-jack.netlify.app/) |         [`Repository`](https://github.com/akashdeep023/Weather_Widget)         |
-|  `03`  | `SimonSay Game Js`   | [`Link`](https://akashdeep023.github.io/SimonSay_Game/)  |         [`Repository`](https://github.com/akashdeep023/SimonSay_Game)          |
-|  `04`  | `Amazon Clone`       |  [`Link`](https://akashdeep023.github.io/Amazon-Clone/)  |          [`Repository`](https://github.com/akashdeep023/Amazon-Clone)          |
-|  `05`  | `Spotify Clone`      | [`Link`](https://akashdeep023.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/akashdeep023/Spotify-Clone).                 |
-|  `06`  | `WhatApp Chat`       |        [`Link`](https://github.com/akashdeep023/)        |                        [`Repository`]() <sup>`Wait`</sup>                      |
-|  `07`  | `ToDo Game Redux`    |   [`Link`](https://todo-list-redux-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-Redux)         |
-|  `08`  | `ToDo Game React`    |   [`Link`](https://task-list-react-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-React)         |
-|  `09`  | `ToDo Game Js`       |   [`Link`](https://akashdeep023.github.io/ToDo_Game/)    |          [`Repository`](https://github.com/akashdeep023/ToDo_Game_Js)          |
-|  `10`  | `Lottery Game`       |  [`Link`](https://lottery-game-react-jack.netlify.app/)  |          [`Repository`](https://github.com/akashdeep023/Lottery-Game)          |
+|  `01`  | `Nasa Web`         |     [`Link`](https://nasa-web-project.vercel.app/)      |           [`Repository`](https://github.com/akashdeep023/Nasa_Web)            |
+|  `02`  | `Life Track`         |     [`Link`](https://todo-mern-project.vercel.app/)      |           [`Repository`](https://github.com/akashdeep023/Todo_Mern)            |
+|  `03`  | `Weather Widget`     | [`Link`](https://weather-widget-react-jack.netlify.app/) |         [`Repository`](https://github.com/akashdeep023/Weather_Widget)         |
+|  `04`  | `SimonSay Game Js`   | [`Link`](https://akashdeep023.github.io/SimonSay_Game/)  |         [`Repository`](https://github.com/akashdeep023/SimonSay_Game)          |
+|  `05`  | `Amazon Clone`       |  [`Link`](https://akashdeep023.github.io/Amazon-Clone/)  |          [`Repository`](https://github.com/akashdeep023/Amazon-Clone)          |
+|  `06`  | `Spotify Clone`      | [`Link`](https://akashdeep023.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/akashdeep023/Spotify-Clone).                 |
+|  `07`  | `WhatApp Chat`       |        [`Link`](https://github.com/akashdeep023/)        |                        [`Repository`]() <sup>`Wait`</sup>                      |
+|  `08`  | `ToDo Game Redux`    |   [`Link`](https://todo-list-redux-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-Redux)         |
+|  `09`  | `ToDo Game React`    |   [`Link`](https://task-list-react-jack.netlify.app/)    |        [`Repository`](https://github.com/akashdeep023/ToDo-List-React)         |
+|  `10`  | `ToDo Game Js`       |   [`Link`](https://akashdeep023.github.io/ToDo_Game/)    |          [`Repository`](https://github.com/akashdeep023/ToDo_Game_Js)          |
+|  `11`  | `Lottery Game`       |  [`Link`](https://lottery-game-react-jack.netlify.app/)  |          [`Repository`](https://github.com/akashdeep023/Lottery-Game)          |
 
 | `S.No` | `Small Project`    |                        `Live Link`                         |                          `GitHub Link`                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
