@@ -1,4 +1,9 @@
-<h1 style="color: blue;" align="center">👋 Hi, I’m Akash Deep (@akashdeep023)</h1>
+<a style="" href="https://akashdeep023.vercel.app/">
+  
+  ![Profile_](https://github.com/user-attachments/assets/79f22b3e-bf89-4d3a-bde9-3e778466a69b)
+  
+</a>
+
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
@@ -6,11 +11,6 @@
   <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
   </a>
 </p>
-<a style="" href="https://akashdeep023.vercel.app/">
-  
-  ![Profile_](https://github.com/user-attachments/assets/79f22b3e-bf89-4d3a-bde9-3e778466a69b)
-  
-</a>
 
 ### 👀 Professional Summary
 Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
