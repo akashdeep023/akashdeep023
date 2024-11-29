@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Akash Deep (@akashdeep023)
-
+<h1 style="color: blue;" align="center">👋 Hi, I’m Akash Deep (@akashdeep023)</h1>
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
@@ -7,8 +6,10 @@
   <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
   </a>
 </p>
-<a style="" href="https://github.com/akashdeep023">
-<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+<a style="" href="https://akashdeep023.vercel.app/">
+  
+  ![Profile_](https://github.com/user-attachments/assets/79f22b3e-bf89-4d3a-bde9-3e778466a69b)
+  
 </a>
 
 ### 👀 Professional Summary
