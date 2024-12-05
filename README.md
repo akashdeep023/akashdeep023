@@ -21,16 +21,19 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 ## Let's connect :speech_balloon:
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
-
+<p align="center">
+  
 [<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
 [<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.akashdeep023@gmail.com)
 [<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
 [<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
+
+</p>
 </br></br>
 
-## 💻 Some stats 💻
+## 💻 Some stats 
 
-<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<div align="center" style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
 <a style="" href="https://github.com/akashdeep023">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
@@ -38,11 +41,15 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
+<a style="" href="https://github.com/akashdeep023">
+  <img height=350 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashdeep023&theme=tokyonight"/>
+</a>
 
 ## 👨‍💻 Languages and Tools
 
 <span>
-  <a href="https://github.com/akashdeep023">
+  <a href="https://github.com/akashdeep023" align="center"> 
+    
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -62,20 +69,28 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
+
 </a>
 </span>
 <br>
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
+  
 [![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
 
+</p>
+
 ## 🧑‍🏫 All Projects
+
+<p align="center">
+
 
 | `S.No` | `Major Project`  |                       `Live Link`                        |                         `GitHub Link`                          |                                                                               `Linked Post`                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  `01`  | `Chat App`       | [`Link`](https://chat-application-jack.vercel.app/)       | [`Repository`](https://github.com/akashdeep023/Chat_App)       |     [`Post`](https://www.linkedin.com/posts/akashdeep023_chatapp-mernabrstack-mernstack-activity-7222507586980388864-XiV0?utm_source=share&utm_medium=member_desktop)      |
-|  `02`  | `Task Management`       | [`Link`](https://task-management-org.vercel.app/)         | [`Repository`](https://github.com/akashdeep023/Task_Management/)       |     [`Post`]()<sup>`Wait`</sup>      |
+|  `02`  | `Task Management`       | [`Link`](https://task-management-org.vercel.app/)         | [`Repository`](https://github.com/akashdeep023/Task_Management/)       |     [`Post`](https://www.linkedin.com/posts/akashdeep023_mernstack-webdevelopment-taskmanagement-activity-7270113822026153984-9Ix4?utm_source=share&utm_medium=member_android)   |
 |  `03`  | `Airbnb Project` | [`Link`](https://airbnb-project-major-jack.onrender.com/) | [`Repository`](https://github.com/akashdeep023/Airbnb_Project) | [`Post`](https://www.linkedin.com/posts/akashdeep023_airbnb-apnacollege-fullstackdevelopment-activity-7153710900992970752-Z9_G?utm_source=share&utm_medium=member_desktop) |
 |  `04`  | `Food Plaza`     |    [`Link`](https://food-plaza-project.vercel.app/)       |   [`Repository`](https://github.com/akashdeep023/Food_Plaza)   |    [`Post`](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
 |  `05`  | `Netflix Gpt`    |      [`Link`](https://netflix-gpt-jack.vercel.app/)       |  [`Repository`](https://github.com/akashdeep023/Netflix_Gpt)   |          [`Post`](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
@@ -106,9 +121,12 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 |  `03`  | `Insta Story Js`   |  [`Link`](https://akashdeep023.github.io/Insta_Story_Js/)  |  [`Repository`](https://github.com/akashdeep023/Insta_Story_Js)  |
 |  `04`  | `Card Project Js`  | [`Link`](https://akashdeep023.github.io/Card_Project_Js/)  | [`Repository`](https://github.com/akashdeep023/Card_Project_Js)  |
 
+
+</p>
+
 ---
 
-<a href="https://github.com/akashdeep023">
+<a href="https://github.com/akashdeep023" align="center">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
 
