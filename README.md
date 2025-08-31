@@ -7,9 +7,15 @@
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
     <br>
-    <a style="" href="https://github.com/akashdeep023">
-        <img src="https://page-visitor.vercel.app/akashdeep023/count.svg" />
+    <a style="" href="https://page-visitor.vercel.app/">
+        <img src="https://page-visitor.vercel.app/akashdeep023/count.svg?boxColor=%23113144&textColor=%232badff&fontSize=20" />
     </a>
+  <br>
+    <span style="color blue;">Made by  
+      <a style="" href="https://github.com/akashdeep023">
+         <b>me</b>
+      </a> 
+    </span>
 </p>
 
 ## 👀 **Professional Summary**
@@ -24,7 +30,7 @@ _Passionate web development enthusiast currently pursuing a Master of Computer A
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdeep023/)
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/akashdeep023/)
-[![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akashdeep023_)
+[![image](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akashdeep023_)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.akashdeep023@gmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akashdeep023_/)    
 [![image](https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social)](https://github.com/akashdeep023)
